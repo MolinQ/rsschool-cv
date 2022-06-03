@@ -21,7 +21,7 @@ At this stage, I want to get into programming, because I realized that this inte
 # Code example:
 function multiply(a, b)\
 {\
-    \return  a * b;\
+    return  a * b;\
 }
 
 # Education
@@ -33,3 +33,4 @@ function multiply(a, b)\
 * Rusian
 * Ukrainian
 
+  
