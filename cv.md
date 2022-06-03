@@ -19,8 +19,9 @@ At this stage, I want to get into programming, because I realized that this inte
 * **Git**
 
 # Code example:
-function multiply(a, b){
-    return  a * b;
+function multiply(a, b)\
+{\
+    \return  a * b;\
 }
 
 # Education
