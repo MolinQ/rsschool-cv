@@ -30,7 +30,7 @@ function multiply(a, b)\
 
 # Languages:
 * Eanglish(B1)
-* Rusian
-* Ukrainian
+* Rusian(Native)
+* Ukrainian(Native)
 
   
